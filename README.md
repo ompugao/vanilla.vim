@@ -18,3 +18,9 @@ set runtimepath^=~/.vim/bundle/vanilla.vim
 ````
 
 And then, Restart Vim.
+
+
+## Acknowledgment
+
+<blockquote class="twitter-tweet" lang="en"><p lang="ja" dir="ltr">最速最強のVimプラグイン、vanilla.vim</p>&mdash; MURAOKA Taro (@kaoriya) <a href="https://twitter.com/kaoriya/status/606066773746524160">June 3, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
